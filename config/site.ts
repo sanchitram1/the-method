@@ -1,7 +1,6 @@
 export const siteConfig = {
-  name: "alana goyal",
-  title: "alana goyal | notes",
-  description: "founder, managing partner, & engineer @ basecase",
-  url: "https://alanagoyal.com",
+  name: "the method",
+  title: "the method | official website",
+  description: "band @ chicago",
+  url: "https://the-method-band.com",
 };
-
