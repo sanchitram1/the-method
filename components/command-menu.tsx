@@ -150,7 +150,7 @@ export const CommandMenu = forwardRef<
       {
         name: "New note",
         icon: <Icons.new />,
-        shortcut: "N",
+        shortcut: "C",
         action: handleCreateNote,
       },
       {
