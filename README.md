@@ -1,9 +1,5 @@
 ## Getting Started
 
-### Clone the repository
-
-`git clone https://github.com/alanagoyal/alanagoyal`
-
 ### Set up the database
 
 This project uses [Supabase](https://supabase.com) as a backend. To set up the database,
@@ -42,9 +38,6 @@ Deploy using [Vercel](https://vercel.com)
 Licensed under the [MIT license](https://github.com/alanagoyal/alanagoyal/blob/main/LICENSE.md).
 
 ## Tasks
-
-> [!TODO]
-> how the hell do I get postgres as the default user?
 
 ### db-init
 
