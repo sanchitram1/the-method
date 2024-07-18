@@ -1,0 +1,5 @@
+dependencies:
+  nodejs.org: 20
+  supabase.com/cli: 1
+  postgresql.org: 16
+  xcfile.dev: 0

@@ -19,7 +19,7 @@ export default function SidebarLayout({ children, notes }: SidebarLayoutProps) {
 
   useEffect(() => {
     if (isMobile !== null && !isMobile && pathname === "/") {
-      router.push("/about-me");
+      router.push("/about-us");
     }
   }, [isMobile, router, pathname]);
 
