@@ -97,3 +97,5 @@ npm run dev
       the note that they created. this happens locally, but not on alanagoyal.com, so
       need to figure out how that happened
 - [ ] doubled up when something is public
+- [ ] note-item gets rendered after note-content sometimes, and so canEdit is set to
+      false in some occasions, which makes certain notes uneditable
